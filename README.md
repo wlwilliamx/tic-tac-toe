@@ -42,4 +42,4 @@ python tic-tac-toe.py
 
 ![example](images/example.png)
 
-*Have fun ~* 
+_Have fun ~_ 
